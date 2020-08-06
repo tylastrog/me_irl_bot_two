@@ -4,6 +4,4 @@
 
 The bot would grab a post found on [/r/me_irl](https://www.reddit.com/r/me_irl] and then uploaded to Instagram with a comment that followed with proper credit.
 
-This was an attempt at recreating another bot that did the same thing, which was created by [@freekbes](https://freekb.es/). 
-
-
+This was an attempt at recreating another bot that did the same thing, which was created by [@freekbes](https://freekb.es/).
