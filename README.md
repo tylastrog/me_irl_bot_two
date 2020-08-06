@@ -5,3 +5,7 @@
 The bot would grab a post found on [/r/me_irl](https://www.reddit.com/r/me_irl] and then uploaded to Instagram with a comment containing proper credit which followed.
 
 This was an attempt at recreating another bot that did the same thing, which was created by [@freekbes](https://freekb.es/).
+
+# Packages
+
+The bot used two packages to function: [InstagramAPISharp](https://github.com/ramtinak/InstagramApiSharp) (considered using [InstaSharper]() but decided not to) and [RedditSharp](https://github.com/CrustyJew/RedditSharp).
