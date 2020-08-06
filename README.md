@@ -6,7 +6,6 @@
 
 > The bot has been turned back on as of August 6th, 2020!
 
-
 The bot grabs a post found on [/r/me_irl](https://www.reddit.com/r/me_irl] and then uploads to Instagram with a comment that follows which contains proper credit.
 
 The bot is an attempt at recreating another bot which did the same thing, created by [@freekbes](https://freekb.es/).
