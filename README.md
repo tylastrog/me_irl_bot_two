@@ -6,6 +6,8 @@ The bot would grab a post found on [/r/me_irl](https://www.reddit.com/r/me_irl] 
 
 This was an attempt at recreating another bot that did the same thing, which was created by [@freekbes](https://freekb.es/).
 
+The project was made in Visual Studio and coded with C#.
+
 # Packages
 
 The bot used two packages to function: [InstagramAPISharp](https://github.com/ramtinak/InstagramApiSharp) (considered [InstaSharper](https://github.com/InstaSharp/InstaSharp)) and [RedditSharp](https://github.com/CrustyJew/RedditSharp).
