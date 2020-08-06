@@ -8,4 +8,4 @@ This was an attempt at recreating another bot that did the same thing, which was
 
 # Packages
 
-The bot used two packages to function: [InstagramAPISharp](https://github.com/ramtinak/InstagramApiSharp) (considered using [InstaSharper]() but decided not to) and [RedditSharp](https://github.com/CrustyJew/RedditSharp).
+The bot used two packages to function: [InstagramAPISharp](https://github.com/ramtinak/InstagramApiSharp) (considered [InstaSharper](https://github.com/InstaSharp/InstaSharp)) and [RedditSharp](https://github.com/CrustyJew/RedditSharp).
