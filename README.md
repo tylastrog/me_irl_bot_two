@@ -8,7 +8,7 @@
 
 The bot grabbed a post found on [/r/me_irl](https://www.reddit.com/r/me_irl) and then uploaded it to Instagram with a comment that followed containing proper credit.
 
-The bot was an attempt at recreating another bot which did the same thing, created by [@freekbes](https://freekb.es/) His bot was previously banned so I took it upon myself to recreate it.
+The bot was an attempt at recreating another bot which did the same thing, created by [@freekbes](https://freekb.es/). His bot was previously banned so I took it upon myself to recreate it.
 
 > UPDATE: As of March 20th, 2021, [@freekbes](https://freekb.es/) created a new bot for the subreddit [/r/196](https://www.reddit.com/r/196) but later changed it to [/r/me_irl](https://www.reddit.com/r/me_irl) due to the fact that [/r/196](https://www.reddit.com/r/196) had too much NSFW content.
 
