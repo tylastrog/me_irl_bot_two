@@ -3,6 +3,7 @@
 [@me_irl_bot_two](https://instagram.com/me_irl_bot_two) was a modified version of a project I started early 2019 which later turned into an [Instagram account](https://instagram.com/me_irl_bot_two) with over 11.6k followers at its [peak](https://raw.githubusercontent.com/tylastrog/me_irl_bot_two/master/peak_screenshot.png)(image shows 11.4k) before it got shut down.
 
 > UPDATE: The bot has been turned back on as of August 6th, 2020!
+
 > UPDATE: The bot has been disabled again as of March 20th, 2021!
 
 The bot grabbed a post found on [/r/me_irl](https://www.reddit.com/r/me_irl) and then uploaded it to Instagram with a comment that followed containing proper credit.
