@@ -1,6 +1,6 @@
 # [@me_irl_bot_two](https://instagram.com/me_irl_bot_two)
 
-[@me_irl_bot_two](https://instagram.com/me_irl_bot_two) was a modified version of a project I started early 2019 which later turned into an [Instagram account](https://instagram.com/me_irl_bot_two) with over 11.6k followers at its [peak](https://raw.githubusercontent.com/tylastrog/me_irl_bot_two/master/peak_screenshot.png)(image shows 11.4k) before it got shut down.
+[@me_irl_bot_two](https://instagram.com/me_irl_bot_two) was a modified version of a project I started early 2019 which later turned into an [Instagram account](https://instagram.com/me_irl_bot_two) with over 14.6k followers at its [peak](https://raw.githubusercontent.com/tylastrog/me_irl_bot_two/master/peak_screenshot.png)(image shows 11.4k) before it got shut down.
 
 > UPDATE: The bot has been turned back on as of August 6th, 2020!
 
